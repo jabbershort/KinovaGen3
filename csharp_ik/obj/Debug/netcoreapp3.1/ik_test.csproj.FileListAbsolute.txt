@@ -1,0 +1,13 @@
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.exe
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.deps.json
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.runtimeconfig.json
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.runtimeconfig.dev.json
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.dll
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\ik_test.pdb
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.csprojAssemblyReference.cache
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.AssemblyInfoInputs.cache
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.AssemblyInfo.cs
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.dll
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.pdb
+C:\Data\git\rrobo\ik_test\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Data\git\rrobo\ik_test\obj\Debug\netcoreapp3.1\ik_test.csproj.CopyComplete
